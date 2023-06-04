@@ -1,0 +1,18 @@
+{    
+    "global": {
+        "error": "Error general: ",
+        "success": "Operación exitosa.",
+        "warning": "No se ha podido completar la operación.",        
+        "missing_data": "Ingrese los campos minimos.",
+        "max_character_25": "Máximo 25 caracteres.",
+        "max_character_50": "Máximo 50 caracteres.",
+        "max_character_100": "Máximo 100 caracteres.",
+        "incorrect_digits": "Cantidad de dígitos incorrectos"
+    },
+    "user" : {
+        "name_in_use": "Nombre no disponible."
+    },
+    "phone" : {
+        "phone_in_use": "Número no disponible."
+    }
+}

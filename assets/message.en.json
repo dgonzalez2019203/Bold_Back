@@ -1,0 +1,13 @@
+{    
+    "global": {
+        "error": "General error: ",
+        "success": "Successful operation.",
+        "warning": "Operation could not be completed.",        
+        "missing_data": "Enter the minimum fields.",
+        "name_in_use": "Name not available." ,       
+        "max_character_25": "Maximum 25 characters.",
+        "max_character_50": "Maximum 50 characters.",
+        "max_character_100": "Maximum 100 characters.",
+        "incorrect_digits": "Incorrect number of digits."
+    }
+}
