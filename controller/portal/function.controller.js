@@ -44,7 +44,7 @@ function sortString(req,res){
     string = params.palabra;
     reverse = string.split(" ").reverse().join(" ");
 
-    return res.send({message: message.global.success, algorimo});
+    return res.send({message: message.global.success, reverse});
 
 }
 

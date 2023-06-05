@@ -2,10 +2,10 @@
 
 var mongoose = require('mongoose');
 var app = require('./app');
-var port = 49159;
+var port = 49151;
 mongoose.Promise = global.Promise;
 
-var uri = 'mongodb+srv://workcodeincHydrosellos:workcodeincHydrosellos@hydrosellos.avwlu.mongodb.net/bold_dev?retryWrites=true&w=majority&authSource=admin';
+var uri = 'CONEXIÓN MONGO DB';
 mongoose.Promise = global.Promise;
 mongoose.connect(uri, {useNewUrlParser:true, useUnifiedTopology:true})
 .then(()=>{
